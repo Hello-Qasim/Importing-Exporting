@@ -19,7 +19,7 @@
 //How can we import multiple exports ?
 
 // import { qas, javed } from './playSports.js';
-// console.log(qas, javed); //output => cricket chess
+// console.log(qas, javed); //output => cricket chess.
 
 //<==============Default export=============>//
 
