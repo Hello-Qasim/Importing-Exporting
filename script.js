@@ -16,7 +16,7 @@
 
 // So we'll use curly brackets and then in those brackets we'll use the same name variable which we want to import in this module .
 
-//How can we import multiple exports ?
+//How can we import multiple exports ??
 
 // import { qas, javed } from './playSports.js';
 // console.log(qas, javed); //output => cricket chess.
