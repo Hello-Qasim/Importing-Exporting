@@ -26,4 +26,4 @@
 import sports from './playSports.js';
 sports('cricket', 'chess'); //output => Qasim likes to play cricket and chess
 
-// So we can use any desireable name  which we want while doing default-export .In our case we have used "sports" .
+// So we can use any desireable name, which we want while doing default-export .In our case we have used "sports" .
